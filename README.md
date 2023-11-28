@@ -35,27 +35,34 @@ We conduct the experiments using four Nvidia RTX 3090 GPUs and the PyTorch libra
 ### Text-to-3D generation from an ellipsoid
 
 We present representative results of X-Dreamer for text-to-3D generation, utilizing an ellipsoid as the initial geometry.
-| ![Vase Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_shaded.gif) | ![Vase Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_normal.gif) | ![Cabbage Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cabbage_shaded.gif) | ![Cabbage Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cabbage_normal.gif) |
-| --- | --- | --- | --- |
-| *A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.* | *A cabbage, highly detailed.* |  | 
 
-| ![Cupcake Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cupcake_shaded.gif) | ![Cupcake Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cupcake_normal.gif) | ![Macaron Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/macaron_shaded.gif) | ![Macaron Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/macaron_normal.gif) |
-| --- | --- | --- | --- |
-| *A chocolate cupcake, highly detailed.* | *A DSLR photo of a macaron, 8K, HD, high resolution.* |  | 
+| ![Vase Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_shaded.gif) | ![Vase Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_normal.gif) |
+| --- | --- |
+| *A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.* | *A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.* |
 
-| ![Bread Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/bread_shaded.gif) | ![Bread Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/bread_normal.gif) | ![Cookies Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cookies_shaded.gif) | ![Cookies Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cookies_normal.gif) |
-| --- | --- | --- | --- |
-| *A sliced loaf of fresh bread.* | *A plate piled high with chocolate chip cookies.* |  | 
+| ![Cabbage Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cabbage_shaded.gif) | ![Cabbage Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cabbage_normal.gif) |
+| --- | --- |
+| *A cabbage, highly detailed.* | *A cabbage, highly detailed.* |
 
-| ![Pear Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pear_shaded.gif) | ![Pear Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pear_normal.gif) | ![Rocket Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rocket_shaded.gif) | ![Rocket Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rocket_normal.gif) |
-| --- | --- | --- | --- |
-| *A DSLR photo of a pear, highly detailed, 8K, HD.* | *A rocket.* |  | 
+| ![Cupcake Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cupcake_shaded.gif) | ![Cupcake Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cupcake_normal.gif) |
+| --- | --- |
+| *A chocolate cupcake, highly detailed.* | *A chocolate cupcake, highly detailed.* |
 
-| ![Hamburger Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_shaded.gif) | ![Hamburger Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_normal.gif) | ![Corn Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_shaded.gif) | ![Corn Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_normal.gif) |
-| --- | --- | --- | --- |
-| <td colspan="4" style="font-size: 18px;">A hamburger.</td>  | 
-<!-- <td colspan="2" style="font-size: 18px;">*A DSLR photo of a corn, highly detailed, 8K, HD.</td>  |    -->
+| ![Bread Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/bread_shaded.gif) | ![Bread Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/bread_normal.gif) |
+| --- | --- |
+| *A sliced loaf of fresh bread.* | *A sliced loaf of fresh bread.* |
 
+| ![Pear Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pear_shaded.gif) | ![Pear Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pear_normal.gif) |
+| --- | --- |
+| *A DSLR photo of a pear, highly detailed, 8K, HD.* | *A DSLR photo of a pear, highly detailed, 8K, HD.* |
+
+| ![Hamburger Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_shaded.gif) | ![Hamburger Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_normal.gif) |
+| --- | --- |
+| *A hamburger.* | *A hamburger.* |
+
+| ![Corn Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_shaded.gif) | ![Corn Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_normal.gif) |
+| --- | --- |
+| *A DSLR photo of a corn, highly detailed, 8K, HD.* | *A DSLR photo of a corn, highly detailed, 8K, HD.* |
 
 ### Text-to-3D generation from coarse-grained meshes
 
