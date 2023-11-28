@@ -53,7 +53,8 @@ We present representative results of X-Dreamer for text-to-3D generation, utiliz
 
 | ![Hamburger Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_shaded.gif) | ![Hamburger Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/hamburger_normal.gif) | ![Corn Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_shaded.gif) | ![Corn Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/corn_normal.gif) |
 | --- | --- | --- | --- |
-| <td colspan="2" style="font-size: 18px;">A hamburger.</td>  | <td colspan="2" style="font-size: 18px;">*A DSLR photo of a corn, highly detailed, 8K, HD.</td>  |   
+| <td colspan="2" style="font-size: 18px;">A hamburger.</td>  | 
+<!-- <td colspan="2" style="font-size: 18px;">*A DSLR photo of a corn, highly detailed, 8K, HD.</td>  |    -->
 
 
 ### Text-to-3D generation from coarse-grained meshes
