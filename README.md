@@ -36,6 +36,8 @@ We conduct the experiments using four Nvidia RTX 3090 GPUs and the PyTorch libra
 
 We present representative results of X-Dreamer for text-to-3D generation, utilizing an ellipsoid as the initial geometry.
 
+| Image | Normal |
+| --- | --- |
 | ![Vase Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_shaded.gif) | ![Vase Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_normal.gif) |
 | --- | --- |
 | *A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.* | *A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.* |
