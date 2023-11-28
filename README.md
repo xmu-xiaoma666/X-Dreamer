@@ -70,15 +70,12 @@ We present representative results of X-Dreamer for text-to-3D generation, utiliz
 
 X-Dreamer also supports text-based mesh geometry editing and is capable of delivering excellent results.
 
-<img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess.png" width="40%"> | <img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_shaded.gif" width="40%"> | <img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_normal.gif" width="40%">
---- | --- | ---
+| Coarse-grained Mesh | Image | Normal |
+| --- | --- | --- |
+| ![Chess Piece](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess.png) | ![Chess Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_shaded.gif) | ![Chess Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_normal.gif) |
 | *A beautifully carved wooden queen chess piece.* |
-
-<img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/head.png" width="40%"> | <img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama_shaded.gif" width="40%"> | <img src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama1_normal.gif" width="40%">
---- | --- | ---
+| ![Obama's Head](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/head.png) | ![Obama Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama_shaded.gif) | ![Obama Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama1_normal.gif) |
 | *Barack Obama's head.* |
-
-
 
 # BibTeX 📚
 ```
