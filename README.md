@@ -73,9 +73,9 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
 | Coarse-grained Mesh | Image | Normal |
 | --- | --- | --- |
 | ![Chess Piece](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess.png) | ![Chess Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_shaded.gif) | ![Chess Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/chess_normal.gif) |
-| *A beautifully carved wooden queen chess piece.* |
+| | *A beautifully carved wooden queen chess piece.* | *A beautifully carved wooden queen chess piece.* |
 | ![Obama's Head](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/head.png) | ![Obama Shaded](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama_shaded.gif) | ![Obama Normal](https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Obama1_normal.gif) |
-| *Barack Obama's head.* |
+| | *Barack Obama's head.* | *Barack Obama's head.* |
 
 
 
