@@ -433,7 +433,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td colspan="5" align="center">A cat, highly detailed.</td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_fantasia3d-texture_shaded.gif"></td>
@@ -500,7 +500,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         </tr>
         <tr>
           <td colspan="5" align="center">A DSLR photo of Lord Voldemort's head, highly detailed.</td>
-        </tr>
+        </tr> -->
       </table>
 
 
