@@ -257,6 +257,27 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
     </div>
   </div>
   <table>
+        <tr>
+          <td align="center">Env. Map1</td>
+          <td align="center">Env. Map2</td>
+          <td align="center">Env. Map3</td>
+          <td align="center">Env. Map4</td>
+          <td align="center">Env. Map5</td>
+        </tr> 
+        <tr>
+          <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment0.png"></td>
+          <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment1.png"></td>
+          <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment2.png"></td>
+          <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment3.png"></td>
+          <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment4.png"></td>
+        </tr>
+        <tr>
+          <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+          <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+          <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+          <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+          <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+        </tr>
       <tr>
         <td align="center">DreamFusion</td>
         <td align="center">Magic3D</td>
