@@ -273,21 +273,21 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
           <td align="center">Magic3D</td>
           <td align="center">Fantasia3D</td>
           <td align="center">ProlificDreamer</td>
-          <td align="center">&nbspX-Dreamer</td>
+          <td align="center">X-Dreamer</td>
         </tr>
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_dreamfusion-sd_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_magic3d-refine-sd_shaded.gif"></td>
           <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_fantasia3d-texture_shaded.gif" ></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_prolificdreamer-texture_shaded.gif"></td>
-          <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_shaded.gif " height="570" width="570"></td>
+          <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_shaded.gif "></td>
         </tr>
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_dreamfusion-sd_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_magic3d-refine-sd_normal.gif"></td>
           <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_fantasia3d-texture_normal.gif" ></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_prolificdreamer-texture_normal.gif"></td>
-          <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_normal.gif" height="570" width="570"></td>
+          <td style="width: 20%;"><br><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_normal.gif" ></td>
         </tr>
         <tr>
           <td colspan="5" align="center">A 3D rendering of Batman, highly detailed.</td>
