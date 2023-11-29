@@ -254,7 +254,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
           ProlificDreamer. The results are shown below:
         </p>
       </div>
-      <table  style="width: 100%; border-collapse: collapse;">
+      <table  style="width: 100%; border-collapse: collapse; background-color: white;">
         <tr>
           <td align="center">DreamFusion</td>
           <td align="center">Magic3D</td>
@@ -313,23 +313,6 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td colspan="5" align="center">Garlic with white skin, highly detailed, 8K, HD.</td>
         </tr>
-        <!-- <tr>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_dreamfusion-sd_shaded.gif" height="700" width="700"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_magic3d-refine-sd_shaded.gif" ></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_shaded.gif"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_prolificdreamer-texture_shaded.gif"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_shaded.gif"></td>
-        </tr>
-        <tr>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_dreamfusion-sd_normal.gif" height="700" width="700"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_magic3d-refine-sd_normal.gif" ></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_normal.gif"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_prolificdreamer-texture_normal.gif"></td>
-          <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_normal.gif"></td>
-        </tr>
-        <tr>
-          <td colspan="5" align="center">A pumpkin, highly detailed, 8K, HD.</td>
-        </tr> -->
         <tr>
           <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_magic3d-refine-sd_shaded.gif"></td>
