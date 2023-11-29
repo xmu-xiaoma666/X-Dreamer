@@ -267,7 +267,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
           ProlificDreamer. The results are shown below:
         </p>
       </div>
-      <table>
+      <table  style="width: 100%;">
         <tr>
           <td align="center">DreamFusion</td>
           <td align="center">Magic3D</td>
@@ -295,14 +295,14 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_dreamfusion-sd_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_magic3d-refine-sd_shaded.gif" ></td>
-          <td style="width: 20%;"><img style="width:80%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_shaded.gif"></td>
+          <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_prolificdreamer-texture_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_shaded.gif" ></td>
         </tr>
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_dreamfusion-sd_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_magic3d-refine-sd_normal.gif" ></td>
-          <td style="width: 20%;"><img style="width:80%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_normal.gif"></td>
+          <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_prolificdreamer-texture_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_normal.gif" ></td>
         </tr>
@@ -329,14 +329,14 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_dreamfusion-sd_shaded.gif" height="700" width="700"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_magic3d-refine-sd_shaded.gif" ></td>
-          <td style="width: 20%;"><img style="width:80%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_shaded.gif"></td>
+          <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_prolificdreamer-texture_shaded.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_shaded.gif"></td>
         </tr>
         <tr>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_dreamfusion-sd_normal.gif" height="700" width="700"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_magic3d-refine-sd_normal.gif" ></td>
-          <td style="width: 20%;"><img style="width:80%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_normal.gif"></td>
+          <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_fantasia3d-texture_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_prolificdreamer-texture_normal.gif"></td>
           <td style="width: 20%;"><img style="width:98%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pumpkin_normal.gif"></td>
         </tr>
