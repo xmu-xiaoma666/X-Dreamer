@@ -254,7 +254,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
           ProlificDreamer. The results are shown below:
         </p>
       </div>
-      <table  style="width: 100%;">
+      <table  style="width: 100%; border-collapse: collapse;">
         <tr>
           <td align="center">DreamFusion</td>
           <td align="center">Magic3D</td>
