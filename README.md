@@ -15,7 +15,7 @@ A pytorch implementation of “X-Dreamer: Creating High-quality 3D Content by Br
 # Overview 💻
 
 <p align="center">
-  <img width="10%" src="image/overview.png"/>
+  <img width="95%" src="image/overview.png"/>
 </p>
 <p astyle="text-align: justify;">Overview of the proposed X-Dreamer, which consists of two main stages: geometry learning and appearance learning.For the geometry learning stage, we employ DMTET as the 3D representation and initialize it with a 3D ellipsoid using the mean squared error (MSE) loss. Subsequently, we optimize DMTET and CG-LoRA using the score distillation sampling (SDS) loss and our proposed attention-mask alignment (AMA) loss to ensure the alignment between the 3D representation and the input text prompt. For the appearance learning, we leverage bidirectional reflectance distribution function (BRDF) modeling. Specifically, we utilize an MLP with trainable parameters to predict surface materials. Similar to the geometry learning stage, we optimize the MLP and CG-LoRA using the SDS loss and the AMA loss to achieve alignment between the 3D representation and the input text prompt.
 </p>
@@ -433,7 +433,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td colspan="5" align="center">A cat, highly detailed.</td>
         </tr>
-        <!-- <tr>
+        <tr>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_fantasia3d-texture_shaded.gif"></td>
@@ -467,7 +467,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         <tr>
           <td colspan="5" align="center">A pumpkin, highly detailed, 8K, HD.</td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_fantasia3d-texture_shaded.gif" ></td>
