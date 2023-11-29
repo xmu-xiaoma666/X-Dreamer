@@ -90,12 +90,13 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
       </p>
     </div>
     <table>
-          <!-- <tr>
-          <td class="title is-5" colspan="9" align="center">Environment map</td>
-          </tr>
           <tr>
-            <td><span>&nbsp</span></td>
-          </tr> -->
+            <td align="center">Env. Map1</td>
+            <td align="center">Env. Map2</td>
+            <td align="center">Env. Map3</td>
+            <td align="center">Env. Map4</td>
+            <td align="center">Env. Map5</td>
+          </tr> 
           <tr>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment0.png"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment1.png"></td>
@@ -104,11 +105,11 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment4.png"></td>
           </tr>
           <tr>
-            <td align="center"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
-            <td align="center"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
-            <td align="center"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
-            <td align="center"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
-            <td align="center"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+            <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+            <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+            <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+            <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
+            <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
           </tr>
           <tr>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit0.gif"></td>
