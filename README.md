@@ -77,95 +77,95 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
       </p>
     </div>
     <table>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center">Env. Map1</td>
             <td align="center">Env. Map2</td>
             <td align="center">Env. Map3</td>
             <td align="center">Env. Map4</td>
             <td align="center">Env. Map5</td>
           </tr> 
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment0.png"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment1.png"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment2.png"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment3.png"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment4.png"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td align="center"><img style="width:9%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cowboy2_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A DSLR photo of a brown cowboy hat.</td>
           </tr>
-           <tr>
+           <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Messi1_strategy4_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Messi1_strategy4_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Messi1_strategy4_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Messi1_strategy4_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Messi1_strategy4_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">Messi's head, highly detailed, 8K, HD.</td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/fox1_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/fox1_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/fox1_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/fox1_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/fox1_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A DSLR photo of a fox, highly detailed.</td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rose_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rose_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rose_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rose_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/rose_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A DSLR photo of red rose, highly detailed, 8K, HD.</td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/mouse2_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/mouse2_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/mouse2_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/mouse2_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/mouse2_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A marble bust of a mouse.</td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/saguaro2_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/saguaro2_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/saguaro2_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/saguaro2_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/saguaro2_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A small saguaro cactus planted in a clay pot.</td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase2_strategy1_lit0.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase2_strategy1_lit1.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase2_strategy1_lit2.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase2_strategy1_lit3.gif"></td>
             <td align="center"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase2_strategy1_lit4.gif"></td>
           </tr>
-          <tr>
+          <tr style="background-color: white;">
             <td colspan="9" align="center">A DSLR photo of a vase, highly detailed, 8K, HD.</td>
           </tr>
               </table>
@@ -183,11 +183,11 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         </p>
       </div>
       <table>
-        <tr>
+        <tr style="background-color: white;">
           <td class="title is-5" colspan="2" align="center">From an ellipsoid</td>
           <td class="title is-5" colspan="2" align="center">From coarse-grained guided meshes</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td>
             <video preload="auto" controls>
               <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_geometry1.mp4" type="video/mp4">
@@ -209,11 +209,11 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
             </video>
           </td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="2" align="center">A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.</td>
           <td colspan="2" align="center">A marble bust of an angel, 3D model, high resolution.</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td>
             <video preload="auto" controls>
               <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pancakes_geometry1.mp4" type="video/mp4">
@@ -235,7 +235,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
             </video>
           </td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="2" align="center">A stack of pancakes covered in maple syrup.</td>
           <td colspan="2" align="center">A DSLR photo of the Terracotta Army, 3D model, high resolution.</td>
         </tr>
@@ -255,96 +255,96 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
         </p>
       </div>
       <table  style="width: 100%; border-collapse: collapse; background-color: white;">
-        <tr>
+        <tr style="background-color: white;">
           <td align="center">DreamFusion</td>
           <td align="center">Magic3D</td>
           <td align="center">Fantasia3D</td>
           <td align="center">ProlificDreamer</td>
           <td align="center">X-Dreamer</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_fantasia3d-texture_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_prolificdreamer-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_shaded.gif "></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_dreamfusion-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_magic3d-refine-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_fantasia3d-texture_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_prolificdreamer-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_normal.gif" ></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="5" align="center">A 3D rendering of Batman, highly detailed.</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_magic3d-refine-sd_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_prolificdreamer-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_shaded.gif" ></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_dreamfusion-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_magic3d-refine-sd_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_fantasia3d-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_prolificdreamer-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_normal.gif" ></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="5" align="center">A cat, highly detailed.</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_fantasia3d-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_prolificdreamer-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_shaded.gif"></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_dreamfusion-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_magic3d-refine-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_fantasia3d-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_prolificdreamer-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/garlic_normal.gif"></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="5" align="center">Garlic with white skin, highly detailed, 8K, HD.</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_dreamfusion-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_magic3d-refine-sd_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_fantasia3d-texture_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_prolificdreamer-texture_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_shaded.gif" ></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_dreamfusion-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_magic3d-refine-sd_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_fantasia3d-texture_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo_prolificdreamer-texture_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Leonardo1_normal.gif" ></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="5" align="center">A statue of Leonardo DiCaprio's head.</td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_dreamfusion-sd_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_magic3d-refine-sd_shaded.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_fantasia3d-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_prolificdreamer-texture_shaded.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_shaded.gif"></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_dreamfusion-sd_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_magic3d-refine-sd_normal.gif" ></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_fantasia3d-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort_prolificdreamer-texture_normal.gif"></td>
           <td align="center"; style="width: 20%; height: 20%; background-color: white;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Voldemort1_normal.gif"></td>
         </tr>
-        <tr>
+        <tr style="background-color: white;">
           <td colspan="5" align="center">A DSLR photo of Lord Voldemort's head, highly detailed.</td>
         </tr>
       </table>
