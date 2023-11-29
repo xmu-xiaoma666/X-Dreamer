@@ -187,6 +187,77 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
 
 
 
+  <div class="columns is-centered has-text-centered">
+    <div class="column is-full-width">
+      <h2 class="title is-3">Editing process</h2>
+      <div class="content has-text-justified">
+        <p>
+          We demonstrate the editing process of the geometry and appearance of 3D assets in X-Dreamer using an
+          ellipsoid and coarse-grained guided meshes as geometric shapes for initialization, respectively.
+        </p>
+      </div>
+      <table>
+        <tr>
+          <td class="title is-5" colspan="2" align="center">From an ellipsoid</td>
+          <td class="title is-5" colspan="2" align="center">From coarse-grained guided meshes</td>
+        </tr>
+        <tr>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_geometry1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/vase_appearance1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/angel_geometry1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/angel_appearance1.mp4" type="video/mp4">
+            </video>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center">A DSLR photo of a blue and white porcelain vase, highly detailed, 8K, HD.</td>
+          <td colspan="2" align="center">A marble bust of an angel, 3D model, high resolution.</td>
+        </tr>
+        <tr>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pancakes_geometry1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/pancakes_appearance1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/army_geometry1.mp4" type="video/mp4">
+            </video>
+          </td>
+          <td>
+            <video preload="auto" controls>
+              <source src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/army_appearance1.mp4" type="video/mp4">
+            </video>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center">A stack of pancakes covered in maple syrup.</td>
+          <td colspan="2" align="center">A DSLR photo of the Terracotta Army, 3D model, high resolution.</td>
+        </tr>
+      </table>
+      </div>
+    </div>
+
+
 # BibTeX 📚
 ```
   Comming
