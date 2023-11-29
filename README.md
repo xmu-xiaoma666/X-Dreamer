@@ -277,7 +277,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/Batman_normal.gif" ></td>
         </tr>
         <tr>
-          <td colspan="5" align="center">A 3D rendering of Batman, highly detailed.</td>
+          <td colspan="4" align="center">A 3D rendering of Batman, highly detailed.</td>
         </tr>
         <tr>
           <td align="center"; style="width: 18%; height: 20%;"><img style="width: 100%; height: 100%;"src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/cat_dreamfusion-sd_shaded.gif"></td>
