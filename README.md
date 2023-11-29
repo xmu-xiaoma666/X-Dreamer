@@ -104,9 +104,6 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
             <td style="text-align: center; vertical-align: middle;"><img style="width:99%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/environment4.png"></td>
           </tr>
           <tr>
-            <td><span>&nbsp</span></td>
-          </tr>
-          <tr>
             <td style="text-align: center; vertical-align: middle;"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td style="text-align: center; vertical-align: middle;"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
             <td style="text-align: center; vertical-align: middle;"><img style="width:19%;" src="https://media.githubusercontent.com/media/xmu-xiaoma666/xmu-xiaoma666.github.io/master/Projects/X-Dreamer/static/our_gif/arrow.png"></td>
