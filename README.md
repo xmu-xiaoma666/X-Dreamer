@@ -186,7 +186,6 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
 </div>
 
 
-
   <div class="columns is-centered has-text-centered">
     <div class="column is-full-width">
       <h2 class="title is-3">Editing process</h2>
@@ -256,7 +255,6 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
       </table>
       </div>
     </div>
-
 
 # BibTeX 📚
 ```
