@@ -352,7 +352,7 @@ X-Dreamer also supports text-based mesh geometry editing and is capable of deliv
       </table>
     </div>
   </div>
-
+ 
 # Using results in 3D computer graphics software 🔧
 [![Video Name](image/overview.png)](https://private-user-images.githubusercontent.com/33897496/287680655-08712c2a-1360-42fc-9a0c-1ab13d2a899b.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2ODkwNTAsIm5iZiI6MTcwMTY4ODc1MCwicGF0aCI6Ii8zMzg5NzQ5Ni8yODc2ODA2NTUtMDg3MTJjMmEtMTM2MC00MmZjLTlhMGMtMWFiMTNkMmE4OTliLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDExMTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkNDE4MWIzOGZmMzFmZDA1MjVlZjMzYTdkZjdiMzA2YzAyZDA1NGMyM2QyY2NlZGJhM2MxODM1YjJiYjM2MDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.M_5j9bUv-5vGuaV59HPCoiFJgN7PhoOSNeByiI0iYEo)
 
