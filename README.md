@@ -13,6 +13,70 @@ A pytorch implementation of “X-Dreamer: Creating High-quality 3D Content by Br
 [![Video Name](image/overview.png)](https://private-user-images.githubusercontent.com/33897496/285799664-fc389cff-3f8c-4287-a399-1e48b42603cd.MP4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwNzc0ODEsIm5iZiI6MTcwMTA3NzE4MSwicGF0aCI6Ii8zMzg5NzQ5Ni8yODU3OTk2NjQtZmMzODljZmYtM2Y4Yy00Mjg3LWEzOTktMWU0OGI0MjYwM2NkLk1QND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI3VDA5MjYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwMmI0Zjg0YWRiZGY1YmYzOTQ2MWFhZjQwZjZkNDcxN2E1ODEzNjgyYzZjOGNiZWRjZGM5NDUyMTU2OWY3NDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QHdxR3l_LPe0AgBXeEUmhRVl3osevGnEyYjRYWfYO5M)
 
 
+# Requirement
+
+- System requirement: Ubuntu20.04
+- Tested GPUs: RTX3090
+- Environment Installation
+```bash
+pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+pip install -r requirements.txt
+```
+  
+
+# How to Run
+
+### Text-to-3D generation from an ellipsoid
+
+**Multi-GPU training**
+```bash
+# Geometry modeling
+python -m torch.distributed.launch --nproc_per_node=4 \
+        train_x_dreamer.py \
+        --config configs/cupcake_geometry.json \
+        --out-dir 'results/result_XDreamer/cupcake_geometry'
+
+# Geometry modeling
+python -m torch.distributed.launch --nproc_per_node=4 \
+        train_x_dreamer.py \
+        --config configs/cupcake_appearance.json \
+        --out-dir 'results/result_XDreamer/cupcake_appearance' \
+        --base-mesh 'results/result_XDreamer/cupcake_geometry/dmtet_mesh/mesh.obj'
+```
+
+**Single-GPU training**
+```bash
+# Geometry modeling
+python train_x_dreamer.py \
+        --config configs/cupcake_geometry.json \
+        --out-dir 'results/result_XDreamer_1GPU/cupcake_geometry'
+
+# Geometry modeling
+python train_x_dreamer.py \
+        --config configs/cupcake_appearance.json \
+        --out-dir 'results/result_XDreamer_1GPU/cupcake_appearance' \
+        --base-mesh 'results/result_XDreamer_1GPU/cupcake_geometry/dmtet_mesh/mesh.obj'
+```
+
+### Text-to-3D generation from coarse-grained meshes
+
+<!-- **Multi-GPU training** -->
+
+```bash
+# Geometry modeling
+python -m torch.distributed.launch --nproc_per_node=4 \
+        train_x_dreamer.py \
+        --config configs/Batman_geometry.json \
+        --out-dir 'results/result_XDreamer/Batman_geometry'
+
+# Geometry modeling
+python -m torch.distributed.launch --nproc_per_node=4 \
+        train_x_dreamer.py \
+        --config configs/Batman_appearance.json \
+        --out-dir 'results/result_XDreamer/Batman_appearance' \
+        --base-mesh 'results/result_XDreamer/Batman_geometry/dmtet_mesh/mesh.obj'
+```
+
 
 # Overview 💻
 
@@ -23,8 +87,9 @@ A pytorch implementation of “X-Dreamer: Creating High-quality 3D Content by Br
 </p>
 
 # News 📝
-**Code is comming soon!!!**
+<!-- **Code is comming soon!!!** -->
 - 2023.11.27: Create Repository
+- 2023.12.28: Release Code
 
 
 # Results 🔍
