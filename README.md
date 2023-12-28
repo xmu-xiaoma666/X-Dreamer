@@ -28,7 +28,8 @@ pip install -r requirements.txt
 
 ### Text-to-3D generation from an ellipsoid
 
-**Multi-GPU training**
+<!-- **Multi-GPU training** -->
+
 ```bash
 # Geometry modeling
 python -m torch.distributed.launch --nproc_per_node=4 \
@@ -44,19 +45,6 @@ python -m torch.distributed.launch --nproc_per_node=4 \
         --base-mesh 'results/result_XDreamer/cupcake_geometry/dmtet_mesh/mesh.obj'
 ```
 
-**Single-GPU training**
-```bash
-# Geometry modeling
-python train_x_dreamer.py \
-        --config configs/cupcake_geometry.json \
-        --out-dir 'results/result_XDreamer_1GPU/cupcake_geometry'
-
-# Geometry modeling
-python train_x_dreamer.py \
-        --config configs/cupcake_appearance.json \
-        --out-dir 'results/result_XDreamer_1GPU/cupcake_appearance' \
-        --base-mesh 'results/result_XDreamer_1GPU/cupcake_geometry/dmtet_mesh/mesh.obj'
-```
 
 ### Text-to-3D generation from coarse-grained meshes
 
